@@ -1,0 +1,13 @@
++++
+
++++
+### General Services Administration (GSA) ###
+
+Contracting with Statistical Research, Inc., through the General Services Administration (GSA) is convenient and allows federal agencies to obtain SRI's services rapidly and without a lengthy solicitation process. SRI has already applied for and received approval as a prequalified contractor under the GSA Schedule Program. The environmental services performed by SRI are identified by the Special Item Numbers (SINs) defined in the GSA contract, and they include services listed under SIN 899-1, including Archaeological, Historical and other Cultural Resource Management Plans, Studies, and Consultation. The company's rates have been predetermined to be fair and reasonable, and the contracting regulations are already established. If you are a federal customer, you can place an order for products and services directly with SRI-creating a one-on-one working relationship between the company and the agency.
+
+Obtaining Statistical Research, Inc.'s cultural resource services is straightforward. You may already have a scope of work (SOW) prepared, but if not, GSA's contracting rules allow SRI's qualified staff to help you develop one. Once the SOW is prepared, let your agency's contracting officer know that you wish to contract directly with SRI and provide them with the SOW that you have developed and SRI's GSA Schedule Contract and Pricelist. Contracting officers are authorized to award contracts up to $500,000 without requiring information on other GSA Schedule contractors. Contracts over $500,000 require additional contracting officer review. If you have additional questions about contracting with SRI through the GSA process, contact SRI's GSA Contracting Officer, Sally Kawakami at (253) 931-7652 or via email at sally.kawakami@gsa.gov. Be sure to reference SRI's GSA Contract Number: GS-10F-0396P.
+
+If you have a procurements over $1,000,000, GSA advises contracting officers to collect information and quotations from two to four other GSA contract holders who have the necessary qualifications to complete the SOW. Your agency may also have internal policies that require the contracting officer to solicit additional contractor and quote information. Once you and your contracting officer determine the best-value offer in terms of your budget, your order can be placed.
+
+Statistical Research, Inc., looks forward to discussing GSA contracting opportunities with you. For additional information, or if you have questions about the process or about SRI's services, please contact SRI's GSA Program Manager Trish Craig at (520) 721-4309 or via email at tcraig@sricrm.com, or SRI Vice President, Operations Teresita Majewski at (520) 721-4309 or via email at tmajewski@sricrm.com
+

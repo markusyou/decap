@@ -1,0 +1,53 @@
+backend:
+  name: test
+  branch: decap # Branch to update (optional; defaults to master)
+
+media_folder: "content/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "careers" # Used in routes, e.g., /admin/collections/blog
+    label: "Careers" # Used in the UI
+    folder: "content/careers" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Expire Date", name: "expirydate", widget: "datetime"}
+      - {label: "State", name: "state", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "content/news" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "image", name: "image", widget: "file", config: "maxSize: 64"}
+      - {label: "featured", name: "featured", widget: "boolean"}
+
+  - name: "offices" # Used in routes, e.g., /admin/collections/blog
+    label: "Offices" # Used in the UI
+    folder: "content/offices" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "location", name: "location", widget: "string"}
+      - {label: "State", name: "state", widget: "string"}
+      - {label: "office_director_name", name: "office_director_name", widget: "string"}
+      - {label: "office_director_email", name: "office_director_email", widget: "string"}
+      - {label: "office_director_address", name: "office_director_address", widget: "string"}
+      - {label: "physical_city", name: "physical_city", widget: "string"}
+      - {label: "physical_state", name: "physical_state", widget: "string"}
+      - {label: "physical_zipcode", name: "physical_zipcode", widget: "string"}
+      - {label: "mailing_street_address", name: "mailing_street_address", widget: "string"}
+      - {label: "mailing_city", name: "mailing_city", widget: "string"}
+      - {label: "mailing_state", name: "mailing_state", widget: "string"}
+      - {label: "mailing_zipcode", name: "mailing_zipcode", widget: "string", description: "string"}
+      - {label: "phone_number", name: "phone_number", widget: "string"}
+      - {label: "fax_number", name: "fax_number", widget: "string"}
+      - {label: "image", name: "image", widget: "file", config: "maxSize: 64"}
+

@@ -1,0 +1,12 @@
++++
+cost = ""
+featured = true
+image = "/uploads/channel_islands_sanclemente_lw-v2.jpg"
+location = "San Clemente Island, Los Angeles County, California"
+title = "Archaeological Site Modeling at San Clemente Island"
+weight = 6
+
++++
+SRI was contracted by TEC-GMI Joint Venture to develop, for Naval Facilities Engineering Command Southwest, a series of models predicting the location and significance of prehistoric archaeological sites on San Clemente Island (SCLI). The project will develop a locational model intended to provide the U.S. Navy with an objective assessment of where archaeological sites are likely to be located on areas of the island that have not been or cannot be inventoried. Additionally, SRI will develop a significance model to predict the likely significance of recorded sites on SCLI, based on the relevance of a site's attributes to determining eligibility for the National Register of Historic Places under Criterion d of Section 106 of the National Historic Preservation Act of 1966, as amended. This project also supports the U.S. Navy's compliance with Department of Defense (DOD) Instruction 4715.16 and Chief of Naval Operations (OPNAV) Instruction 5090.1C. A crucial component of the project is the development of a database of archaeological project and site locations and attributes that can be used to develop the locational and significance models.
+
+SCLI site records are currently held in paper form, including information on site characteristics and boundaries. These records must be digitized through an automated process developed by SRI and linked to geographic information system (GIS) records of site location. Along with these data, GIS environmental data will be used to generate a statistical locational model and to identify correlations between site-significance categories or site types and environmental variables. The significance model will consist of algorithms coded in Query Language that will automatically assign site-significance categories to recorded sites based on site attributes. The project is organized according to a series of eight tasks to be conducted over an 18-month period of performance: data-needs assessment, data collection, records scanning, database development, locational-model construction, significance-model construction, evaluation of the significance model for archaeological-site management, and report production. 

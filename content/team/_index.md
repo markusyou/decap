@@ -1,0 +1,4 @@
++++
+
++++
+SRI has approximately 200 employees. Our staff includes approximately a dozen individuals with Ph.D. degrees in anthropology or a related field, over 50 with M.A. degrees in these fields, and several more with M.B.A. or equivalent degrees. The remaining employees are field archaeologists and other support staff. The company also regularly hires archaeologists on a project-specific, as-needed basis. SRI is organized into analytical and support departments, and departmental personnel overlap among SRI's offices. SRI executive staff are listed below. The directors and assistant directors of SRI's various offices are listed on the Offices page of our web site.

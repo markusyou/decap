@@ -1,0 +1,1 @@
+SRI staff are regularly giving conference papers, publishing cutting-edge research, and interacting with the public. As a result, this News section is designed to celebrate the achievements of our colleagues as we strive to do interesting research on the human condition. 

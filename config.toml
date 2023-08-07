@@ -1,0 +1,16 @@
+baseURL = "https://www.sricrm.com/"
+copyright = "2023 Statistical Research, Inc. All rights reserved"
+languageCode = "en-us"
+rssLimit = 20
+theme = "sri-theme"
+title = "Statistical Research, Inc."
+facebook = "StatisticalResearchInc"
+[author]
+email = "admin@sricrm.com"
+name = "Statistical Research, Inc."
+
+[Params]
+Facebook = "https://facebook.com/statisticalresearchinc/"
+Linkedin = "https://linkedin.com/company/statistical-research-inc/"
+# Instagram = "https://instagram.com/filler"
+# Twitter = "https://twitter.com/filler"

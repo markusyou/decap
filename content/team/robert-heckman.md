@@ -1,0 +1,11 @@
+---
+name: Robby Heckman
+group: Leadership
+job_title: President
+weight: 4
+image: "/uploads/00_robby_website_pic_v2.jpg"
+
+---
+Robert (Robby) Heckman joined SRI in 1992 and has served in a multitude of capacities for the firm since that time. Since 2021, Mr. Heckman has served as President of SRI. Mr. Heckman has extensive experience planning and managing large and complex projects across all of the western states for various federal, state, and local agencies as well as tribal and private clients. In addition to having management and field experience, Mr. Heckman is an expert on prehistoric ceramics and an exceptional database manager. He has more than 28 years of experience in the full range of heritage management professional services. Mr. Heckman received his B.A. in anthropology from the University of Arizona in 1992 and his M.A. in anthropology from Northern Arizona University in 2002. Mr. Heckman is a Registered Professional Archaeologist.
+
+Mr. Heckman advocates a proactive management approach with the goal of discerning client needs, facilitating client goals, and achieving results. Mr. Heckman's management approach is founded on fostering communication and establishing trust and a partnership with our clients. By leveraging the inherent flexibility of the National Historic Preservation Act, Mr. Heckman seeks to provide the best possible outcome for our clients and the resources in their charge. Mr. Heckman and SRI have a proven track record of working collaboratively with our clients and the communities in which we work to provide data-driven management solutions that enable better-informed decisions, planning, and allocation of funding resources. Mr. Heckman also oversees the continuing development and implementation of the SRI-specific data collection standards and conventions and relational database (SRID) that help ensure SRI projects are not simply "one-off" events and instead result in truly cumulative data sets that can be leveraged to contextualize future work, support data-driven conclusions, facilitate longitudinal research goals, engage the public, and provide informed management options for our clients.

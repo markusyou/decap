@@ -1,0 +1,1 @@
+SRI has offices in New Mexico, Arizona, California and Washington, and our work expands across the western United States and further afield. Historically, SRI has also conducted work internationally, including central America and west Africa. SRI offices and staff work together closely to ensure projects are staffed efficiently and productively to ensure success. 
